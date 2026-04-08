@@ -1,6 +1,6 @@
 # Blockchain & Web3 Engineer
 
-🚀 **I build scalable, secure blockchain systems as a Web3 engineer on Solana** My expertise spans **DeFi, DEXs, blockchain protocols, hybrid on-chain/off-chain data systems, and AI agents**.
+🚀 **I build scalable, secure blockchain systems as a Web3 engineer on Solana**. My expertise spans **DeFi, DEXs, blockchain protocols, hybrid on-chain/off-chain data systems, and AI agents**.
 
 I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
@@ -69,7 +69,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Bebop**
 
-<img align="right" width="350px" height="170px alt="546426265-b0c55d79-7da5-4880-b1fd-aac32ce7b662" src="https://github.com/user-attachments/assets/231fe119-0879-4975-9339-1ec4269d2208" />
+<img  align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b5d9d6f6-c8ab-4769-ac26-b113c88e80cc" />
 
 - Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
 
