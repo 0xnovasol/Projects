@@ -84,7 +84,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 
-<img width="1891" height="900" alt="546428140-1b8ee9e9-befd-42d0-b02c-86b0953acc85" src="https://github.com/user-attachments/assets/0359b5ab-afb2-4a45-bade-35805b69f0ee" />
+<img  align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/0359b5ab-afb2-4a45-bade-35805b69f0ee" />
 
 - Luck is a decentralized, non-custodial crypto casino built on the Solana blockchain, allowing users to gamble directly from their own wallets without accounts or KYC.
 
@@ -99,7 +99,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Critters Quest (NFT Game)**
 
-<img width="1425" height="821" alt="507465253-92b8618c-9856-4756-a65c-bd22ee352b3d" src="https://github.com/user-attachments/assets/674d44ab-cd25-4677-ad2c-4a9f2266b13d" />
+<img align="right" width="350px" height="170px"  src="https://github.com/user-attachments/assets/674d44ab-cd25-4677-ad2c-4a9f2266b13d" />
 
 - Critters Quest is a Solana-based crypto gaming and NFT ecosystem built around “gaming collectibles that grow through gameplay,” powered by the $QUEST utility token.
 
@@ -114,7 +114,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 
-<img width="1806" height="889" alt="546437161-5c64413a-581f-4b03-bc61-29d286599efa" src="https://github.com/user-attachments/assets/9092cbc3-6fe0-4c92-8fe5-04d8a0a7334e" />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9092cbc3-6fe0-4c92-8fe5-04d8a0a7334e" />
 
 - FloppyLabs is a staking-as-a-service platform primarily serving NFT projects within the Solana ecosystem.
 
@@ -129,7 +129,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Rekt Gang**
 
-<img width="1882" height="893" alt="546435341-477be5a1-a212-4c65-8cd6-3ffc9008b20a" src="https://github.com/user-attachments/assets/6cca7c7c-540c-4164-86e1-7dcf72c4e17f" />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/6cca7c7c-540c-4164-86e1-7dcf72c4e17f" />
 
 - Rekt Gang is a multichain, NFT-focused crypto community and DAO built to support users who have experienced losses in crypto and NFTs.
 
@@ -144,7 +144,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 HydraSwap (Solana DEX)**
 
-<img width="1901" height="924" alt="410856280-f11ab626-1042-4de9-9455-8b6c35ee350b" src="https://github.com/user-attachments/assets/6d834418-ebdb-4f04-9cec-6a1178f10444" />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/6d834418-ebdb-4f04-9cec-6a1178f10444" />
 
 - Cross-chain DEX with **Hydra Market Maker (HMM)**
 
@@ -157,7 +157,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Plutonians**
 
-<img width="1883" height="897" alt="546438332-5dd2b811-e8c3-4773-9604-a9a152453197" src="https://github.com/user-attachments/assets/480028b2-4b0c-437a-a669-acaa04363bd4" />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/480028b2-4b0c-437a-a669-acaa04363bd4" />
 
 - Plutonians is a Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in an on-chain economy.
 
