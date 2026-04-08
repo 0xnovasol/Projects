@@ -39,7 +39,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Solana Agent Market**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7f0a7e5e-65b3-4082-883a-9a084dc24289">
+<img  align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/51e50039-2ff0-4c8a-bd3d-2d1338927200" />
 
 - A decentralized AI agent marketplace on Solana that lets users hire AI agents on-chain.
 
@@ -54,7 +54,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Duel Duck Prediction Market**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9b8d6497-16e0-4545-8376-ebc3229dfdc0">
+<img  align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/961c31e8-ec1d-415d-a360-f8a2f6181fef" />
 
 - Duel Duck is a Solana’s peer-to-peer on-chain prediction market platform.
 
@@ -146,9 +146,11 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/6d834418-ebdb-4f04-9cec-6a1178f10444" />
 
-- Cross-chain DEX with **Hydra Market Maker (HMM)**
+- HydraSwap is Decentralized Exchange(DEX) on Solana featuring the proprietary **Hydra Market Maker (HMM)**
 
-- Concentrated liquidity & impermanent loss reduction
+-  Delivers CEX-level trading speed and experience with advanced automated market making that minimizes impermanent loss, maximizes returns for liquidity providers, and enables cross-chain asset swaps
+
+-  Powered by Solana for ultra-low fees, lightning-fast execution, and high-quality liquidity pools.
 
 📌 **Live:** [hydraswap.io](https://hydraswap.io/)
 📌 **Repo:** [Smart Contracts]()
