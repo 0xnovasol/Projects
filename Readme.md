@@ -39,7 +39,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Solana Agent Market**
 
-<img  align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/51e50039-2ff0-4c8a-bd3d-2d1338927200" />
+<img  align="right" width="350px" height="240px" src="https://github.com/user-attachments/assets/51e50039-2ff0-4c8a-bd3d-2d1338927200" />
 
 - A decentralized AI agent marketplace on Solana that lets users hire AI agents on-chain.
 
